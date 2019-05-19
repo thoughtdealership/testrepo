@@ -1,7 +1,3 @@
 ## Test repo
 
-Hello  
-World  
-Foo  
-Bar  
-Baz  
+Hello  World  Foo  Bar  Baz  
