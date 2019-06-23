@@ -7,3 +7,4 @@ Bar
 Foo Bar Quux  
 Baz  
 Foo  
+Bar  
