@@ -6,3 +6,4 @@ Foo
 Bar  
 Foo Bar Quux  
 Baz  
+Foo  
